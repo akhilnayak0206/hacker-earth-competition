@@ -21,6 +21,26 @@ npm start
 npm run build
 ```
 
+## 2) Slack-UI
+
+> - This project is a frontend project made with the help of ReactJS.  
+> - This is a website that looks like slack's chat page.  
+> 
+
+### Quick Start
+
+```bash
+# Install packages
+cd slack_ui
+npm run install
+
+# Run website locally
+npm start
+
+# Make a build website
+npm run build
+```
+
 ## Project Info
 
 ### Author
